@@ -46,6 +46,7 @@
         "Pixel Adventure.tsx"
     ],
     "project": "pixel_adventure.tiled-project",
+    "property.type": "bool",
     "recentFiles": [
         "Pixel Adventure.tsx",
         "level_01.tmx"
